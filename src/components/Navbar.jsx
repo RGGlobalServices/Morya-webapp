@@ -31,7 +31,7 @@ const Navbar = () => {
           className="flex items-center space-x-3"
         >
           <NavLink to="/" className="flex items-center space-x-1">
-            <img src="/src/assets/Morya-Computer.png" alt="Morya Computers Logo" className="h-12 w-auto rounded-full" />
+            <img src="/assets/Morya-Computer.png" alt="Morya Computers Logo" className="h-12 w-auto rounded-full" />
            <span className="text-xl font-bold text-black drop-shadow-lg">Morya Computers</span>
           </NavLink>
         </motion.div>
